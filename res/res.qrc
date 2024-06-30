@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arrow.svg</file>
+        <file>beat2_checked.svg</file>
+        <file>beat2_unchecked.svg</file>
+        <file>beat3_checked.svg</file>
+        <file>beat3_unchecked.svg</file>
+        <file>beat4_checked.svg</file>
+        <file>beat4_unchecked.svg</file>
+        <file>beat5_checked.svg</file>
+        <file>beat5_unchecked.svg</file>
+        <file>circle_checked.svg</file>
+        <file>circle_unchecked.svg</file>
+        <file>metronome1.wav</file>
+        <file>metronome2.wav</file>
+        <file>null.svg</file>
+        <file>pause.svg</file>
+        <file>res.qrc</file>
+        <file>start.svg</file>
+        <file>volume_down.svg</file>
+        <file>volume_up.svg</file>
+    </qresource>
+</RCC>
